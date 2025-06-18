@@ -1,0 +1,1 @@
+esta base datos tiene las tablas y trigger para hacer automatica algunas funciones.
